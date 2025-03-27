@@ -1,0 +1,3 @@
+affordable_house(ID, Price, Area, Beds, Baths, Stories, Status).
+luxury_house(ID, Price, Area, Beds, Baths, Stories, Status).
+preferred_area_house(ID, Price, Area, Beds, Baths, Stories, Status).
